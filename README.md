@@ -12,10 +12,10 @@
 </div>
 
 ## 🚀 **About me**
-* 🏆 **Winner of NASA Space Apps Challenge** - Local Phase Salvador
 * 💼 Currently working as **Systems Analyst II** at SENAI CIMATEC
-* 🎓 Bachelor's degree in **Computer Science** from UniRuy Wyden
-* 🌍 **6+ years** of experience in software development
+*  🌍 **6+ years** of experience in software development
+*  🎓 Bachelor's degree in **Computer Science** from UniRuy Wyden
+* 🏆 **Winner of NASA Space Apps Challenge** - Local Phase Salvador
 * 🤖 Passionate about **AI, Blockchain** and **Frontend Development**
 * 🎮 Developed **GLOBE Explorers** - 3D educational game with AI integration
 * 💬 Fluent in **Portuguese** and professional proficiency in **English**
