@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Yuri+Ferreira+Paulo!;Welcome+to+my+GitHub+profile!+🚀)
 
 <h2 align="center">
-  
-  Systems Analyst II | Frontend Developer | NASA Space Apps Local Winner 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  Systems Analyst II | Frontend Developer | NASA Space Apps Winner 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h2>
 
@@ -12,13 +12,27 @@
 </div>
 
 ## 🚀 **About me**
-* 💼 Currently working as **Systems Analyst II** at SENAI CIMATEC
-*  🌍 **6+ years** of experience in software development
-*  🎓 Bachelor's degree in **Computer Science** from UniRuy Wyden
-* 🏆 **Winner of NASA Space Apps Challenge** - Local Phase Salvador
-* 🤖 Passionate about **AI, Blockchain** and **Frontend Development**
-* 🎮 Developed **GLOBE Explorers** - 3D educational game with AI integration
-* 💬 Fluent in **Portuguese** and professional proficiency in **English**
+
+<div align="center">
+  <table style="border: none; width: 100%;">
+    <tr style="border: none;">
+      <td style="border: none; padding-right: 20px;">
+        <ul style="list-style: none; padding: 0;">
+          <li>🏆 <b>Winner of NASA Space Apps Challenge</b> - Local Phase Salvador</li>
+          <li>💼 Currently working as <b>Systems Analyst II</b> at SENAI CIMATEC</li>
+          <li>🎓 Bachelor's degree in <b>Computer Science</b> from UniRuy Wyden</li>
+          <li>🌍 <b>6+ years</b> of experience in software development</li>
+          <li>🤖 Passionate about <b>AI, Blockchain</b> and <b>Frontend Development</b></li>
+          <li>🎮 Developed <b>GLOBE Explorers</b> - 3D educational game with AI integration</li>
+          <li>💬 Fluent in <b>Portuguese</b> and professional proficiency in <b>English</b></li>
+        </ul>
+      </td>
+      <td style="border: none;">
+        <img alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ **Technical Skills**
 
