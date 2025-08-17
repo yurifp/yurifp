@@ -2,7 +2,7 @@
 
 <h2 align="center">
   
-  Systems Analyst II | Frontend Developer | NASA Space Apps Winner 
+  Systems Analyst II | Frontend Developer | NASA Space Apps Local Winner 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h2>
 
