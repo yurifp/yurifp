@@ -1,0 +1,44 @@
+# Detectar corretamente arquivos JavaScript e TypeScript
+*.js linguist-detectable=true
+*.ts linguist-detectable=true
+*.jsx linguist-detectable=true
+*.tsx linguist-detectable=true
+
+# Detectar arquivos Vue
+*.vue linguist-detectable=true
+*.vue linguist-language=Vue
+
+# Detectar arquivos Angular
+*.component.ts linguist-detectable=true
+*.module.ts linguist-detectable=true
+*.service.ts linguist-detectable=true
+
+# Marcar dependências como vendor (não contabilizar)
+node_modules/* linguist-vendored
+vendor/* linguist-vendored
+dist/* linguist-vendored
+build/* linguist-vendored
+
+# Marcar arquivos de configuração como não detectáveis
+*.json linguist-detectable=false
+*.yml linguist-detectable=false
+*.yaml linguist-detectable=false
+*.lock linguist-detectable=false
+package-lock.json linguist-generated=true
+yarn.lock linguist-generated=true
+
+# Garantir que HTML/CSS em componentes sejam detectados
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.scss linguist-detectable=true
+*.sass linguist-detectable=true
+
+# Documentação não deve ser contabilizada
+docs/* linguist-documentation
+*.md linguist-documentation
+
+# Arquivos de teste podem ser marcados opcionalmente
+*.spec.js linguist-detectable=true
+*.spec.ts linguist-detectable=true
+*.test.js linguist-detectable=true
+*.test.ts linguist-detectable=true

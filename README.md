@@ -6,9 +6,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h2>
 
+<!-- Stats com cache reduzido e mais parâmetros -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurifp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifp&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurifp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifp&layout=compact&langs_count=12&theme=tokyonight&hide=html,css&cache_seconds=1800&exclude_repo=nome-do-repo-a-excluir"/>
+</div>
+
+<!-- Alternativa: GitHub Profile Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yurifp&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yurifp&theme=tokyonight" height="180em"/>
 </div>
 
 ## 🚀 **About me**
@@ -96,13 +103,21 @@
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yurifp&theme=tokyonight&hide_border=false"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yurifp&show_icons=true&theme=tokyonight&rank_icon=github"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yurifp&theme=tokyonight&hide_border=false&cache_seconds=1800"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yurifp&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800"/>
 </div>
+
+<!-- Wakatime Stats (opcional - se você usar Wakatime) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yurifp&theme=tokyonight"/> -->
 
 <div align="center">
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=yurifp&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<!-- Gráfico de Atividade -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurifp&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ## 🌐 **Let's Connect!**
