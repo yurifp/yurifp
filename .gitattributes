@@ -42,3 +42,19 @@ docs/* linguist-documentation
 *.spec.ts linguist-detectable=true
 *.test.js linguist-detectable=true
 *.test.ts linguist-detectable=true
+
+# Forçar detecção de TypeScript/JavaScript moderno
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+
+# Ignorar arquivos gerados e bibliotecas
+public/lib/* linguist-vendored
+public/vendor/* linguist-vendored
+*.min.js linguist-vendored
+*.min.css linguist-vendored
+
+# Marcar PureBasic como vendored (se existir)
+*.pb linguist-vendored
+*.pbi linguist-vendored
