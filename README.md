@@ -1,12 +1,13 @@
 # Yuri Ferreira Paulo
-**Software Engineer — AI, Automation & Full Stack** · Salvador, Brazil
+**Full Stack Software Engineer · + AI & Automation** · Salvador, Brazil
 
-I build end-to-end web products and automations: WhatsApp AI agents, n8n/Google Apps Script integrations, REST APIs and React/Next.js front-ends. 6 years shipping software — across large portfolios of institutional websites and e-learning platforms, and systems used daily by thousands of people. Right now I apply all of that at **IAgency**, my automation studio for local businesses (VPS + Docker + n8n + LLMs/RAG + scraping APIs, with WhatsApp actions).
+Full stack engineer with 6 years of experience: React/Next.js and Vue front-ends, Node.js/Python/Java/.NET back-ends, and REST APIs in distributed architectures — now adding an AI and automation layer on top: WhatsApp AI agents, n8n/Google Apps Script integrations and LLMs/RAG running in production at **IAgency**, my automation studio for local businesses (VPS + Docker + n8n + scraping APIs + WhatsApp actions).
 
 ## Now
-- 🤖 **IAgency** (founder) — AI agents and automations for local businesses
-- 🧩 Low-code & integrations — Base44 · n8n · Google Apps Script
-- 🛰️ Automation portfolio — [AureaOps](https://github.com/yurifp/aureaops): SAC + leads + BI with idempotency, OAuth2/API Key and LGPD-by-design
+- 🧱 **Full stack products** — React/Next.js, TypeScript, Node.js; component libraries, performance and accessibility (WCAG 2.1) shipped to thousands of daily users
+- 🤖 **IAgency** (founder) — AI agents and automations for local businesses: LLMs, RAG, scraping APIs, WhatsApp
+- 🧩 **Low-code & integrations** — Base44 · n8n · Google Apps Script
+- 🛰️ **Automation portfolio** — [AureaOps](https://github.com/yurifp/aureaops): service desk + leads + BI with idempotency, OAuth2/API Key and LGPD-by-design
 
 ## Featured projects
 
@@ -14,18 +15,19 @@ I build end-to-end web products and automations: WhatsApp AI agents, n8n/Google 
 |---|---|
 | [AureaOps](https://github.com/yurifp/aureaops) | End-to-end automation portfolio: service desk with SLA, lead capture with round-robin, BI reports — n8n + Apps Script + Base44 + WhatsApp + SQL + Excel |
 | [IA-Agent](https://github.com/yurifp/IA-Agent) | Multi-client WhatsApp AI support agent (venom-bot + OpenAI), with the official-vs-unofficial API trade-off documented |
-| [Impacts](https://impacts.live/) | 3D web platform simulating asteroid impact scenarios — NASA Space Apps 2024 · JavaScript/Three.js |
-| [GlobeExplorers](https://oceancode4.github.io/GlobeExplorers/) | Environmental educational 3D game with YOLO computer vision and live GLOBE data — NASA Space Apps 2025 · co-developed |
-| [iss-experience](https://github.com/yurifp/iss-experience) | Interactive journey through 25 years of ISS history |
-| [portfolio](https://github.com/yurifp/portfolio) | Personal website — TypeScript |
+| [Impacts](https://www.spaceappschallenge.org/2025/find-a-team/nimpact/?tab=project) — NASA Space Apps **2025**, global nominee | 3D web platform simulating asteroid impact scenarios · [GitHub](https://github.com/impacts-apps/impacts-apps.github.io) · [impacts.live](https://impacts.live/) · JavaScript/Three.js |
+| [GlobeExplorers](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/oceancode/?tab=project) — NASA Space Apps **2024**, global nominee | Environmental educational 3D game with YOLO computer vision and live GLOBE data, co-developed · [GitHub](https://github.com/yurifp/GlobeExplorers) |
+| [portfolio](https://github.com/yurifp/portfolio) | This site — Astro 7 + React 19 islands, Tailwind CSS v4, GSAP, Three.js/WebGL, serverless on Vercel + GitHub Pages mirror |
 
 ## Stack
-- **AI & Agents** — LLMs, multi-agent systems, RAG, MCP, prompt engineering
-- **Automation & Integration** — n8n, Google Apps Script, Docker, VPS, REST, Webhooks, WhatsApp
-- **Full Stack** — React, Next.js, TypeScript, Vue, Tailwind, Node.js, Python, Java, C#/.NET
-- **Data** — MySQL, Redis, SQL
-- **Cloud & DevOps** — Azure, OpenShift, CI/CD, GitHub Actions
-- **Extras** — Solidity/Ethereum/Solana, Three.js
+- **Front-End** — React, Next.js, TypeScript, JavaScript ES6+, Vue.js, Tailwind CSS, Sass, Styled Components, Bootstrap, jQuery, GraphQL, micro frontends (single-spa), Three.js/WebGL, HTML5/CSS3
+- **Back-End** — Node.js, Python, Java, C#/.NET, REST API design & integration, webhooks, distributed architectures, OAuth2/API Key
+- **AI & Agents** — LLMs, multi-agent systems, RAG, MCP, prompt engineering, AI infrastructure on VPS
+- **Automation & Integration** — n8n, Google Apps Script, Base44, Docker, VPS (Hetzner), WhatsApp (Cloud API + agents), Postman, Make/Power Automate (concepts)
+- **Data** — MySQL, Redis, SQL modeling and query design
+- **Cloud & DevOps** — Azure, OpenShift (Red Hat DO101/DO180), CI/CD, GitHub Actions, Git, Webpack, Vite
+- **Quality & Design** — Jest, React Testing Library, Playwright, Figma, UI/UX, WCAG 2.1, web performance
+- **Extras** — Solidity/Ethereum/Solana
 
 ## GitHub Stats
 
@@ -45,7 +47,7 @@ I build end-to-end web products and automations: WhatsApp AI agents, n8n/Google 
 </p>
 
 ## Recognition
-- **NASA Space Apps Challenge** — global nominee in **2024 and 2025** (Impacts · GlobeExplorers), local winner in both editions
+- **NASA Space Apps Challenge** — global nominee in **2024** (GlobeExplorers) and **2025** (Impacts), local winner in both editions
 - CS final project graded **10/10** — Solidity smart contracts for decentralized public-data management
 
 ## Experience
