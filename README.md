@@ -1,7 +1,7 @@
 # Yuri Ferreira Paulo
 **Software Engineer — AI, Automation & Full Stack** · Salvador, Brazil
 
-I build end-to-end web products and automations: WhatsApp AI agents, n8n/Google Apps Script integrations, REST APIs and React/Next.js front-ends. 6 years shipping software — from 170+ institutional sites and e-learning platforms to systems used daily by thousands of people. Right now I apply all of that at **IAgency**, my automation studio for local businesses (VPS + Docker + n8n + LLMs/RAG + scraping APIs, with WhatsApp actions).
+I build end-to-end web products and automations: WhatsApp AI agents, n8n/Google Apps Script integrations, REST APIs and React/Next.js front-ends. 6 years shipping software — across large portfolios of institutional websites and e-learning platforms, and systems used daily by thousands of people. Right now I apply all of that at **IAgency**, my automation studio for local businesses (VPS + Docker + n8n + LLMs/RAG + scraping APIs, with WhatsApp actions).
 
 ## Now
 - 🤖 **IAgency** (founder) — AI agents and automations for local businesses
@@ -27,7 +27,22 @@ I build end-to-end web products and automations: WhatsApp AI agents, n8n/Google 
 - **Cloud & DevOps** — Azure, OpenShift, CI/CD, GitHub Actions
 - **Extras** — Solidity/Ethereum/Solana, Three.js
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yurifp&layout=compact&langs_count=8&theme=default&hide=html,css)
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yurifp&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=yurifp" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifp&layout=compact&langs_count=10&hide=html,css" alt="Top languages" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yurifp" alt="Most commit language" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yurifp" alt="Repos per language" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yurifp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ## Recognition
 - **NASA Space Apps Challenge** — global nominee in **2024 and 2025** (Impacts · GlobeExplorers), local winner in both editions
